@@ -6,7 +6,7 @@ A simple python file ("hello.py")
 helps in understanding how github repositories eork. 
 
 # My goal
-I am learnih Git, Github and Python so that I contribute to opensource projects
+I am learning Git, Github and Python so that I contribute to opensource projects
 
 ## Author
 Ananya Singh
