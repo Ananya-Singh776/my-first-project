@@ -1,9 +1,8 @@
-# my-first-project
-This is my first Github repository as a part of my learning into open source
+# basics-of-python
+This Github repository as a part of my learning into open source for understandig the basics of python and implementing it
 
 ## What this project contains
-A simple python file ("hello.py")
-helps in understanding how github repositories work. 
+It contains various files for foundation of python with examples. 
 
 # My goal
 I am learning Git, Github and Python so that I contribute to opensource projects
